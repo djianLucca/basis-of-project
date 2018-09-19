@@ -1,0 +1,9 @@
+{
+    "test": {
+        "username": "i4zvx49cire0gu14",
+        "password": "m2ls5aid0xp40ynu",
+        "database": "rq1uzgyq7y6z8vsp",
+        "host": "bbj31ma8tye2kagi.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+        "dialect": "mysql"
+      }
+}
